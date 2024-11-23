@@ -4,10 +4,10 @@
 
 💻 Actualmente estoy aprendiendo y trabajando en:
 
-    Desarrollo web (HTML, CSS, JavaScript, PHP, MySQL, Python)
-    Programación orientada a objetos
-    Bases de datos y sistemas distribuidos
-    Proyectos académicos y personales enfocados en software y robótica
+Desarrollo web (HTML, CSS, JavaScript, PHP, MySQL, Python)
+- Programación orientada a objetos
+- Bases de datos y sistemas distribuidos
+- Proyectos académicos y personales enfocados en software y robótica
 
 🚀 Interesado en proyectos que combinen innovación y aprendizaje continuo. Mi objetivo es crecer como desarrollador y contribuir a soluciones que hagan la diferencia.
 
